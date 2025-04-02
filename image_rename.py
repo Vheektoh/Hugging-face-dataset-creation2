@@ -23,3 +23,4 @@ def rename_images(folder_path):
 # Provide the path to your image folder
 folder_path = "/Users/macbok/Downloads/Telegram Desktop"  # Change this to your actual folder path
 rename_images(folder_path)
+
